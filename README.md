@@ -1,4 +1,4 @@
-# OTX
+# Alienvault OTX
 ## Установка 
 ### Этапы
 - Downloading Sysmon from https://download.sysinternals.com/files/Sysmon.zip
