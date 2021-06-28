@@ -12,4 +12,6 @@ powershell.ps1
 
 ## Конфиги 
 ### Sysmon 
+[sysmon_config.xml](https://github.com/joker2013/otx/blob/main/Sysmon/sysmon_config.xml)
 ### Osquery 
+[osquery.conf](https://github.com/joker2013/otx/blob/main/Osquery/osquery.conf)
