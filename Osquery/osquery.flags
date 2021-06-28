@@ -1,0 +1,11 @@
+--config_plugin=tls
+--config_tls_endpoint=/configure
+--config_tls_max_attempts=10
+--config_tls_refresh=120
+--enroll_tls_endpoint=/enroll
+--enroll_always=true
+--watchdog_memory_limit=350
+--enroll_secret_path=c:\Program Files\osquery\secret
+--tls_hostname=api.agent.otxb.io/osquery-api-otx
+--host_identifier=specified
+--specified_identifier=00000000-da4e-42cf-9465-0f3c4e3c0a1a
